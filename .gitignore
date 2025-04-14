@@ -1,6 +1,8 @@
 # ignore files and folders
 .venv 
 
+venv/
+
 .data
 
 data/
