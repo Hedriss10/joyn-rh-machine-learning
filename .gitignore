@@ -1,1 +1,8 @@
+# ignore files and folders
 .venv 
+
+.database
+
+database/
+
+database.
