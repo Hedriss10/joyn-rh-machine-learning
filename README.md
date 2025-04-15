@@ -1,8 +1,5 @@
-# Analizador de textos com machine learning
+## Projeto de machine learning
 
 
-## Lendo o database
-
-**Descrição**:
- 
-Ao carregar o `dataframe`, foi indentificado que é dados sobre filmes
+### Objetivo e introdução
+Classificar gêneros de filmes (multi-label) com base em sinopses.
