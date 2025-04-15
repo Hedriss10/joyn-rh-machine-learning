@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 **Fonte dos dados:**
-
+https://www.cs.cmu.edu/~ark/personas/
 
 
 
